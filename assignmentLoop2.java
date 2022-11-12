@@ -5,9 +5,10 @@
 package schoolActivities;
 
 /**
- *
- * @author kalmamigos
- */
+* Name: Ryan Jay R. Pasulohan
+* Section: Fidelity
+* Year: 4th Year
+*/
 import java.util.Scanner;
 public class assignmentLoop2 {
     public static void main(String[] args) {
